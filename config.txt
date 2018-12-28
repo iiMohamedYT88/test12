@@ -1,0 +1,6 @@
+﻿token=BvXs8qrM4eZVqkCqyCe77421dLWc4XsR
+owner=469257729983381504 
+prefix=!play
+game= !Music
+stayinchannel=true
+songinstatus=true 
